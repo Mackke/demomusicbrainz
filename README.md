@@ -23,6 +23,10 @@ to your postman and make sure it's a post request your sending.
 
 
 The response you should get should look something like this.
+this might come out weird in github so read the readme in the project instead if so.
+
+
+
 {
     "mbid": "ec2bcb77-b9a1-49e2-bfe7-419586bbef48",
     "title": "Big Bang",
@@ -40,3 +44,5 @@ The response you should get should look something like this.
             "image": "http://coverartarchive.org/release/1f11977b-09b2-4fee-a95b-d6c4a71f426b/15402712366.jpg"
         }      
 }
+
+
